@@ -20,11 +20,7 @@ ADS-502-US-Pollution-Analysis/
 
 **Before running the analysis, ensure you have the required Python packages installed.**
 
-1. (Optional but recommended) Create a virtual environment:
-    ```bash
-    python -m venv venv
-    source venv/bin/activate        # On macOS/Linux
-    venv\Scripts\activate           # On Windows
+1. Create folder named 'data' and add the US Air Pollution Dataset to it ( Dataset: https://www.kaggle.com/datasets/sogun3/uspollution )
     ```
 
 2. Install required packages using `requirements.txt`:
