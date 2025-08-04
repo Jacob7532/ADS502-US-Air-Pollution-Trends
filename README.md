@@ -11,7 +11,6 @@ ADS-502-US-Pollution-Analysis/
 ├── data/
 ├── notebooks/
 ├── scripts/
-├── outputs/
 ├── requirements.txt
 └── README.md
 
@@ -61,3 +60,4 @@ ADS-502-US-Pollution-Analysis/
 ## Credits
 
 Dataset from [Kaggle: U.S. Pollution Data (2000–2016)](https://www.kaggle.com/datasets/sogun3/uspollution).
+
